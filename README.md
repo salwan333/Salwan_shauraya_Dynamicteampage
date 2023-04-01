@@ -20,3 +20,10 @@ Credits TODO: shauraya
 ## License TODO: Mit license
 
 
+<<<<<<< Dev.-S.-shauraya
+=======
+
+
+>>>>>>> main
+
+
