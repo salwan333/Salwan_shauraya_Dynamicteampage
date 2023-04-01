@@ -1,0 +1,116 @@
+*{
+    margin:0;
+    padding:0;
+}
+body{
+    background-color: #000;
+}
+.container{
+   border:1px solid #000;
+   width:90%;
+   height:auto;
+   padding:20px;
+   margin:auto;
+   margin-top:10px;
+   background-color: #efefef;
+}
+.mainTitle{
+     margin-top:20px;
+     margin:auto;
+     padding:20px; 
+     text-align: center;
+     font-size:40px;
+     background-color: #409CFF;
+    box-shadow: 2px 2px 10px #000;
+    color:#fff;
+    text-shadow: 2px 2px 10px #000;
+}
+.smTitle{
+    font-size:25px;
+    text-align: center;
+    background-color: #409CFF;
+    padding:20px;
+    
+}
+.row{
+    width:96%;
+    height:auto;
+    padding:10px;
+    margin:auto;
+    margin-top:20px;
+}
+.row{
+    margin:auto;
+    text-align: center;
+}
+.col{
+    width:60%;
+    margin-top:20px;
+    display:inline;
+    height:auto;
+}
+.img-fluid{
+            max-width:25%;
+            height: auto;
+            margin:20px;
+            border:1px solid #000;
+            box-shadow: 2px 2px 10px #000;
+            border-radius:10px;
+            cursor:pointer;
+    }
+    
+        .img-fluid-big {
+            max-width: 50%;
+            height: auto;
+            margin: 20px;
+            border: 1px solid #000;
+            box-shadow: 2px 2px 10px #000;
+            border-radius: 10px;
+            cursor: pointer;
+            margin-top:0px;
+        }
+        .btn{
+            font-size:25px;
+            padding:20px;
+            background-color:#DC3545;
+            color:#fff;
+            font-weight:bold;
+            cursor:pointer;
+        }
+        .btn:hover {
+                    font-size: 25px;
+                    padding: 20px;
+                    background-color: #dC3511;
+                    color: #fff;
+                    font-weight: bold;
+             }
+        .btnDiv{
+            margin-top:10px;
+            text-align:center;
+        }
+    
+        .msg1{
+            border:1px solid #000;
+            padding:10px;
+            color:#dC3511;
+            background-color: #000;
+            font-size:30px;
+            width:45%;
+            margin:auto;
+            margin-top:20px;
+            letter-spacing: 2px;
+            line-height: 2;
+        }
+                .msg2 {
+                    border: 1px solid #000;
+                    padding: 10px;
+                    color: #FFC107;
+                    background-color: #000;
+                    font-size: 30px;
+                    width: 45%;
+                    margin: auto;
+                    margin-top: 20px;
+                    letter-spacing: 2px;
+                    line-height: 2;
+                }
+  
